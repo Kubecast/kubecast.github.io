@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Kubecast</title>
+    <atom:link href="http://kubecast.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://kubecast.com</link>
+    <lastBuildDate>Fri, 9 Oct 2015 23:04:49 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-gb</language>
+    <copyright>Copyright 2016 Kubecast</copyright>
+    <itunes:subtitle>There's always DevOps in the Banana Stand</itunes:subtitle>
+    <itunes:author>Ivan Pedrazas, Milos Gadjos</itunes:author>
+    <itunes:summary>Kubecast a podcast about kubernetes, schedulers, containers and the new world.</itunes:summary>
+    <description>Kubecast a podcast about kubernetes, schedulers, containers and the new world.</description>
+    <itunes:owner>
+    <itunes:name>Ivan Pedrazas</itunes:name>
+    <itunes:email>ipedrazas@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://kubecast.comimg/kc-podcast-logo.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    
+    <item>
+      <title>Episode 01 - Interview With Kelsey Hightower - KC1</title>
+      <itunes:author>Ivan Pedrazas, and Milos Gadjos</itunes:author>
+      <itunes:summary>Interview during the ContainerSched conference at London</itunes:summary>
+      <description>Interview during the ContainerSched conference at London</description>
+      <enclosure url="https://api.spreaker.com/download/episode/8908302/kubecast_01_final.mp3" length="" type="audio/x-m4a" />
+      <guid>https://api.spreaker.com/download/episode/8908302/kubecast_01_final.mp3</guid>
+      <link>http://kubecast.com/episode01/</link>
+      <pubDate>Thu, 30 Jun 2016 16:14:10 -0500 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+  </channel>
+</rss>

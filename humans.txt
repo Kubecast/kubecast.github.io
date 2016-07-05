@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+	Co-Host and Pretend Developer: Ivan Pedrazas
+	Contact: ipedrazas [at] gmail.com
+	Twitter: @ipedrazas
+	From: London, UK
+
+	Co-Host and ML Whiz: Milos Gajdos
+	Twitter: @milosgajdos
+	From: London, UK
+
+/* THANKS */
+
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+  Site Generator: Hugo (http://gohugo.io)
+	IDE: Sublime, Vim, gimp
