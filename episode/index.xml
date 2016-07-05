@@ -10,8 +10,8 @@
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Kubecast</title>
-    <atom:link href="http://kubecast.com/index.xml" rel="self" type="application/rss+xml" />
-    <link>http://kubecast.com</link>
+    <atom:link href="http://kubecast.com//index.xml" rel="self" type="application/rss+xml" />
+    <link>http://kubecast.com/</link>
     <lastBuildDate>Thu, 30 Jun 2016 16:14:10 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -25,7 +25,7 @@
     <itunes:name>Ivan Pedrazas</itunes:name>
     <itunes:email>ipedrazas@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://kubecast.comimg/kc-podcast-logo.png" />
+    <itunes:image href="http://kubecast.com/img/kc-podcast-logo.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />
