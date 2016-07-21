@@ -32,6 +32,18 @@
     </itunes:category>
     
     <item>
+      <title>Episode 02 - Interview With Gabe Monroy - KC1</title>
+      <itunes:author>Ivan Pedrazas, and Milos Gadjos</itunes:author>
+      <itunes:summary>Interview Deis CTO Gabriel Monroy</itunes:summary>
+      <description>Interview Deis CTO Gabriel Monroy</description>
+      <enclosure url="http://api.spreaker.com/download/episode/9026336/kubecast_ep02.mp3" length="" type="audio/x-m4a" />
+      <guid>http://api.spreaker.com/download/episode/9026336/kubecast_ep02.mp3</guid>
+      <link>https://www.kubecast.com/episode02/</link>
+      <pubDate>Wed, 20 Jul 2016 17:44:10 -0500 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    <item>
       <title>Episode 01 - Interview With Kelsey Hightower - KC1</title>
       <itunes:author>Ivan Pedrazas, and Milos Gadjos</itunes:author>
       <itunes:summary>Interview during the ContainerSched conference at London</itunes:summary>
