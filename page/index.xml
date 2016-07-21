@@ -34,8 +34,8 @@
     <item>
       <title>Episode 02 - Interview With Gabe Monroy - KC1</title>
       <itunes:author>Ivan Pedrazas, and Milos Gadjos</itunes:author>
-      <itunes:summary>Interview with Gabriel Monroy, Deis CTO </itunes:summary>
-      <description>Interview with Gabriel Monroy, Deis CTO </description>
+      <itunes:summary>Interview with Gabriel Monroy, CTO and creator of Deis </itunes:summary>
+      <description>Interview with Gabriel Monroy, CTO and creator of Deis </description>
       <enclosure url="http://api.spreaker.com/download/episode/9026336/kubecast_ep02.mp3" length="" type="audio/x-m4a" />
       <guid>http://api.spreaker.com/download/episode/9026336/kubecast_ep02.mp3</guid>
       <link>https://www.kubecast.com/episode02/</link>
