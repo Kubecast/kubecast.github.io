@@ -32,6 +32,18 @@
     </itunes:category>
     
     <item>
+      <title>Episode 04 - Interview With Joseph Jacks - KC1</title>
+      <itunes:author>Ivan Pedrazas, and Milos Gadjos</itunes:author>
+      <itunes:summary>Interview with Joseph Jacks</itunes:summary>
+      <description>Interview with Joseph Jacks</description>
+      <enclosure url="http://api.spreaker.com/download/episode/9176932/kubecast_ep04.mp3" length="" type="audio/x-m4a" />
+      <guid>http://api.spreaker.com/download/episode/9176932/kubecast_ep04.mp3</guid>
+      <link>https://www.kubecast.com/episode04/</link>
+      <pubDate>Sun, 11 Sep 2016 17:34:10 -0500 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    <item>
       <title>Episode 03 - Interview With David Aronchick - KC1</title>
       <itunes:author>Ivan Pedrazas, and Milos Gadjos</itunes:author>
       <itunes:summary>Interview with David Aronchick, Kubernetes Product manager </itunes:summary>
