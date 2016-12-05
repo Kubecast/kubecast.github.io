@@ -10,9 +10,9 @@
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Kubecast</title>
-    <atom:link href="https://www.kubecast.com//index.xml" rel="self" type="application/rss+xml" />
-    <link>https://www.kubecast.com/</link>
-    <lastBuildDate>Sun, 11 Sep 2016 17:34:10 -0500</lastBuildDate>
+    <atom:link href="https://www.kubecast.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.kubecast.com</link>
+    <lastBuildDate>Sun, 4 Dec 2016 17:34:10 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-gb</language>
@@ -25,11 +25,23 @@
     <itunes:name>Ivan Pedrazas</itunes:name>
     <itunes:email>ipedrazas@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.kubecast.com/img/kc-podcast-logo.png" />
+    <itunes:image href="https://www.kubecast.comimg/kc-podcast-logo.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />
     </itunes:category>
+    
+    <item>
+      <title>Episode 05 - Interview With David O&#39;Dwyer - KC5</title>
+      <itunes:author>Ivan Pedrazas, and Milos Gadjos</itunes:author>
+      <itunes:summary>Interview with David O&#39;Dwyer</itunes:summary>
+      <description>Interview with David O&#39;Dwyer</description>
+      <enclosure url="http://api.spreaker.com/download/episode/10034426/kubecast_ep05.mp3" length="" type="audio/x-m4a" />
+      <guid>http://api.spreaker.com/download/episode/10034426/kubecast_ep05.mp3</guid>
+      <link>https://www.kubecast.com/episode05/</link>
+      <pubDate>Sun, 04 Dec 2016 17:34:10 -0500 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
     
     <item>
       <title>Episode 04 - Interview With Joseph Jacks - KC1</title>
